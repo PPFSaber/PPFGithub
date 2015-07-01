@@ -163,6 +163,7 @@
 		8550EE341B4386BE00440412 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = PPF;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = PPF;
 				TargetAttributes = {
@@ -412,6 +413,7 @@
 				8550EE611B4386BE00440412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8550EE621B4386BE00440412 /* Build configuration list for PBXNativeTarget "0701-githubTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +422,7 @@
 				8550EE641B4386BE00440412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
