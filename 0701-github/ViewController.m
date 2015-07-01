@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"罗庆武 周星星 碧池 倩碧 的一种");
+    NSLog(@"猩猩 倩碧种 ");
 
 }
 
